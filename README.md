@@ -60,7 +60,6 @@ https://kanban-board-hazel-tau.vercel.app/
 * Due dates
 * User authentication
 * Dark mode
-* Cloud-based task synchronization
 
 ## Author
 
