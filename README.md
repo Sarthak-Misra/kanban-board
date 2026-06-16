@@ -14,7 +14,6 @@ A responsive and interactive Kanban Board application built with HTML, CSS, and 
 * Drag and drop tasks between columns
 * Organize work using Kanban workflow stages
 * Responsive and user-friendly interface
-* Persistent task management (if local storage is implemented)
 
 ## Technologies Used
 
